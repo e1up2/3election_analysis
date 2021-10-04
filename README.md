@@ -27,6 +27,5 @@ The analysis of this election shows that:
 - The winner of the election was:
     - Candidate: Diana Degette, who received 73.81% of the vote and 272,892 votes
 
-## Challenge Overview
-
 ## Challenge Summary
+While writing this code, I kept in mind that the election comission may want to use this same code to audit other types of elections and made it so that process was very simple. All I would have to do get the name of the csv file and insert that file name into my code. Please do not hesitate to ask me about auditing any other elections. It has been a pleasure working with the election commision!
